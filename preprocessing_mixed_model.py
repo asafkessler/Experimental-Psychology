@@ -3,20 +3,37 @@ import re
 import os
 
 RAW_DATA_PATH = "data/RawData_Only.xlsx"
+GROUP_SCHEMA_PATH = "data/Group_Scenario_Numbers_and_Versions.csv"
 OUTPUT_PATH = "data/long_format_mixed_model.csv"
 
 os.makedirs("data", exist_ok=True)
+
+# 60 data columns split into 6 groups of 10 (counterbalancing blocks)
+GROUPS = ["A", "B", "C", "D", "E", "F"]
+
+
+def assign_group(df: pd.DataFrame) -> pd.Series:
+    """Return a Series mapping each row to its counterbalancing group (A-F)."""
+    data_cols = list(df.columns[1:])
+    group_series = pd.Series(index=df.index, dtype=str)
+    for i, grp in enumerate(GROUPS):
+        block = data_cols[i * 10 : (i + 1) * 10]
+        mask = df[block].notna().any(axis=1)
+        group_series[mask] = grp
+    return group_series
 
 
 def wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
     """Convert wide-format raw data to long format for mixed models.
 
     Input columns: 'Response ID', '<scenario> positive/negative[.N]', ...
-    Output columns: participant_id, scenario, framing, rating
+    Output columns: participant_id, group, scenario, framing, framing_dummy, rating
     """
+    groups = assign_group(df)
     rows = []
-    for _, row in df.iterrows():
+    for idx, row in df.iterrows():
         pid = int(row["Response ID"])
+        grp = groups[idx]
         for col in df.columns[1:]:
             val = row[col]
             if pd.isna(val):
@@ -28,16 +45,16 @@ def wide_to_long(df: pd.DataFrame) -> pd.DataFrame:
                 rows.append(
                     {
                         "participant_id": pid,
+                        "group": grp,
                         "scenario": scenario,
                         "framing": framing,
+                        "framing_dummy": 1 if framing == "positive" else 0,
                         "rating": float(val),
                     }
                 )
 
     long_df = pd.DataFrame(rows)
     long_df = long_df.sort_values(["participant_id", "scenario"]).reset_index(drop=True)
-    # framing as dummy: positive=1, negative=0
-    long_df["framing_dummy"] = (long_df["framing"] == "positive").astype(int)
     return long_df
 
 
@@ -51,6 +68,7 @@ def main():
     print(f"Participants: {long_df['participant_id'].nunique()}")
     print(f"Scenarios: {sorted(long_df['scenario'].unique())}")
     print(f"Framing distribution:\n{long_df['framing'].value_counts()}")
+    print(f"Group distribution:\n{long_df.groupby('group')['participant_id'].nunique()}")
     print(f"\nSample:\n{long_df.head(20).to_string()}")
 
     long_df.to_csv(OUTPUT_PATH, index=False)
