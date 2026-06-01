@@ -1,0 +1,2102 @@
+[
+  {
+    "participant_id": 36241986,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36241986,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 5,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36211355,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36206029,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 7,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36204396,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 5,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36196682,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36194341,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 7,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36184062,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36176011,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36175929,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36160496,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36156340,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36155805,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 7,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36154696,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 7,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36153831,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 5,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36153648,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 7,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36153550,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36152493,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36152122,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 5,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36151109,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36150929,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36149726,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 5,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36148273,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36148133,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36147027,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 1,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 6,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 4,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36146705,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 1,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36146453,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 5,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36142455,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36127615,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 3,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 9,
+    "framing": "negative",
+    "rating": 1,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 5,
+    "framing": "negative",
+    "rating": 4,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 8,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 3,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 2,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36126884,
+    "scenario": 10,
+    "framing": "positive",
+    "rating": 7,
+    "trial_index": 10
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 3,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 1
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 10,
+    "framing": "negative",
+    "rating": 6,
+    "trial_index": 2
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 7,
+    "framing": "positive",
+    "rating": 4,
+    "trial_index": 3
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 6,
+    "framing": "negative",
+    "rating": 7,
+    "trial_index": 4
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 9,
+    "framing": "positive",
+    "rating": 5,
+    "trial_index": 5
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 2,
+    "framing": "negative",
+    "rating": 2,
+    "trial_index": 6
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 1,
+    "framing": "negative",
+    "rating": 3,
+    "trial_index": 7
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 8,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 8
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 4,
+    "framing": "positive",
+    "rating": 6,
+    "trial_index": 9
+  },
+  {
+    "participant_id": 36126649,
+    "scenario": 5,
+    "framing": "positive",
+    "rating": 2,
+    "trial_index": 10
+  }
+]

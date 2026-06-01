@@ -1,0 +1,14 @@
+groupA_Scenario,groupA_Version,groupB_Scenario,groupB_Version,groupC_Scenario,groupC_Version,groupD_Scenario,groupD_Version,groupE_Scenario,groupE_Version,groupF_Scenario,groupF_Version
+6,Negative,3,Negative,5,Positive,4,Positive,5,Positive,8,Positive
+10,Positive,10,Negative,1,Positive,6,Negative,10,Negative,4,Negative
+5,Positive,7,Positive,2,Negative,3,Positive,2,Negative,1,Negative
+4,Negative,6,Negative,10,Positive,9,Negative,8,Negative,10,Negative
+7,Positive,9,Positive,9,Negative,5,Negative,4,Positive,7,Positive
+9,Negative,2,Negative,6,Positive,8,Negative,1,Negative,5,Negative
+3,Negative,1,Negative,8,Negative,1,Negative,7,Negative,2,Positive
+1,Positive,8,Positive,7,Positive,7,Positive,6,Positive,3,Positive
+8,Negative,4,Positive,4,Negative,2,Positive,9,Positive,9,Positive
+2,Positive,5,Positive,3,Negative,10,Positive,3,Positive,6,Negative
+,,,,,,,,,,,
+,,,,,,,,,,,
+3,,6,,1,,2,,4,,5,

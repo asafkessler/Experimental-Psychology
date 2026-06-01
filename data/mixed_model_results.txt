@@ -1,0 +1,33 @@
+==========================================================
+  Mixed Linear Model
+  rating ~ framing + (1 | participant_id)
+==========================================================
+
+Descriptives
+  Negative: M = 4.24,  SD = 2.27,  n = 150
+  Positive: M = 4.43,  SD = 1.87,  n = 150
+
+Fixed Effects  (reference: negative framing)
+  Parameter                            β     SE       z        p  95% CI
+  ----------------------------------------------------------------------
+  Intercept (negative baseline)    4.240  0.208  20.376   0.0000  [3.832, 4.648]  ***
+  Framing (positive vs. negative)   0.193  0.224   0.862   0.3885  [-0.246, 0.633]  ns
+
+Random Effects
+  Participant variance (τ²):  0.5452
+  Residual variance   (σ²):  3.7690
+  ICC (participant):           0.1264  (12.6%)
+
+Model Fit
+  Log-likelihood:     -638.52
+  LR χ²(1) vs. null:  0.000,  p = 1.0000
+
+Robustness check: model + scenario fixed effects
+  Framing β = 0.308,  p = 0.1671
+
+Conclusion
+  Framing effect NOT significant (β = 0.193, SE = 0.224,
+  z = 0.862, p = 0.388, 95% CI [-0.246, 0.633]).
+  Positive framing ratings were 0.19 pts higher
+  than negative, but this is not statistically significant.
+  12.6% of variance is explained by between-participant differences.
